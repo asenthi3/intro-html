@@ -1,0 +1,7 @@
+# vim local config files
+.vim/
+.vim
+
+# files from other editors
+.idea/
+.vscode/
